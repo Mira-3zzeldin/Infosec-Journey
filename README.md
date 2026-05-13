@@ -7,12 +7,12 @@
 <blockquote><p>To ensure maximum organization, this repository maps my progress stage-by-stage. Each course folder follows a strict, highly-structured blueprint :</p></blockquote>
 
 ### 📦 infosec-journey
-	- 📂 **Phase-Name** *( e.g., Phase-00-IT-Fundamentals )*
-		- 📂 **Course-Name** *( e.g., CompTIA-Network+ )*
-			- 📂 **01-Summaries** *( Organized by Domains & Chapters )*
-			- 📂 **02-Practical-Labs** *( Mapped directly to chapters with screenshots )*
-			- 📂 **03-Cheatsheets** *( Compiled commands, acronyms, and syntax shortcuts )*
-			- 📜 **Exam-Preparation.md** *( Practice exam scores, analysis, and weak points )*
+&nbsp;- 📂 **Phase-Name** *( e.g., Phase-00-IT-Fundamentals )*
+&nbsp;&nbsp;- 📂 **Course-Name** *( e.g., CompTIA-Network+ )*
+&nbsp;&nbsp;&nbsp;- 📂 **01-Summaries** *( Organized by Domains & Chapters )*
+&nbsp;&nbsp;&nbsp;- 📂 **02-Practical-Labs** *( Mapped directly to chapters with screenshots )*
+&nbsp;&nbsp;&nbsp;- 📂 **03-Cheatsheets** *( Compiled commands, acronyms, and syntax shortcuts )*
+&nbsp;&nbsp;&nbsp;- 📜 **Exam-Preparation.md** *( Practice exam scores, analysis, and weak points )*
 
 <br>
 ---------------------------------------------------------------
