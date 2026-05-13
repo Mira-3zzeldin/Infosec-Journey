@@ -1,5 +1,5 @@
 <h1 align="center">🌐 InfoSec Journey</h1>
-<sub>&nbsp;</sub>
+<hr style="height: 1px; background-color: transparent; border: none; margin: 2px 0;">
 <p align="left"><strong>Welcome to my personal cybersecurity learning repository! 🚀</strong> ... This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.</p>
 
 ---------------------------------------------------------------
