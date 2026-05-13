@@ -1,4 +1,4 @@
-<p align="center"><h1><b>🌐 InfoSec Journey</b></h1></p><br>
+<h1 align="center">🌐 InfoSec Journey</h1><br>
 <p align="left"><strong>Welcome to my personal cybersecurity learning repository! 🚀</strong> ... This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.</p>
 
 ---------------------------------------------------------------
