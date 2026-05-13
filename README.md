@@ -1,7 +1,5 @@
 <h1 align="center">🌐 InfoSec Journey</h1>
-<p align="left"><strong>Welcome to my personal cybersecurity learning repository! 🚀</strong> ... This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.</p>
-
----------------------------------------------------------------
+<p align="left"><strong>Welcome to my personal cybersecurity learning repository! 🚀</strong> ... This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.</p><br>
 
 <h2 align="left">🗂️ Repository Architecture</h2>
 <blockquote><p>To ensure maximum organization, this repository maps my progress stage-by-stage. Each course folder follows a strict, highly-structured blueprint :</p></blockquote>
