@@ -6,9 +6,9 @@
 <h2 align="left">🗂️ Repository Architecture</h2>
 <blockquote><p>To ensure maximum organization, this repository maps my progress stage-by-stage. Each course folder follows a strict, highly-structured blueprint :</p></blockquote>
 <p>
-<h4>📦 infosec-journey</h4><br>
-&nbsp;&nbsp;- 📂 <Strong>Phase-Name</Strong> <em>( e.g., Phase-00-IT-Fundamentals )</em><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📂 <Strong>Course-Name</Strong> <em>( e.g., CompTIA-Network+ )</em><br>
+<h4>📦 infosec-journey</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;- 📂 <Strong>Phase-Name</Strong> <em>( e.g., Phase-00-IT-Fundamentals )</em><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📂 <Strong>Course-Name</Strong> <em>( e.g., CompTIA-Network+ )</em><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📂 <Strong>01-Summaries</Strong> <em>( Organized by Domains & Chapters )</em><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📂 <Strong>02-Practical-Labs</Strong> <em>( Mapped directly to chapters with screenshots )</em><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📂 <Strong>03-Cheatsheets</Strong> <em>( Compiled commands, acronyms, and syntax shortcuts )</em><br>
