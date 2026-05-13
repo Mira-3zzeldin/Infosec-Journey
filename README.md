@@ -1,2 +1,41 @@
-# Infosec-Journey
-🎯 Documenting my continuous learning journey in offensive security | 💻 Pentesting notes, technical walkthroughs, and practical labs 🛡️
+# 🌐 InfoSec Journey
+
+Welcome to my personal cybersecurity learning repository! 🚀 This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.
+
+---
+
+### 🗂️ Repository Architecture
+
+To ensure maximum organization, this repository maps my progress stage-by-stage. Each course folder follows a strict, highly-structured blueprint :
+
+📦 infosec-journey  
+- 📂 Phase-00-IT-Fundamentals  
+	- 📂 Course-Name (e.g., CompTIA-Network+)  
+		- 📂 01-Summaries (Organized by Domains & Chapters)  
+		- 📂 02-Practical-Labs (Mapped directly to chapters with screenshots)  
+		- 📂 03-Cheatsheets (Compiled commands, acronyms, and syntax shortcuts)  
+		- 📜 Exam-Preparation.md (Practice exam scores, analysis, and weak points)
+
+---
+
+## ⚡ Technical Skills in Development
+
+While moving through these phases, I focus on mastering :
+* 🛠️ **Core Infrastructure :** Hardware configuration, virtualization, and system diagnostics.
+* 📡 **Packet Analysis :** Decoding network traffic and inspecting protocols using Wireshark.
+* 🧮 **OS Internals :** Command-line proficiency in Linux/Windows and understanding kernel operations.
+---
+
+### 📈 Learning Philosophy
+
+I believe that true mastery comes from documenting and sharing knowledge. Every file here represents hours of hands-on practice, deep analysis, and continuous improvement.
+
+---
+
+### 🤝 Connect & Feedback
+
+If you are a fellow learner, recruiter, or security professional :
+* 💬 Feel free to explore my notes and lab walkthroughs.
+* 📢 If you spot any technical inaccuracies or have a better way to solve a lab, open an **Issue** or drop a suggestion!
+
+🌐 *Happy Hacking & Continuous Growth!*
