@@ -1,29 +1,23 @@
-# 🌐 InfoSec Journey
+<h1 align="center">🌐 InfoSec Journey</h1><br>
+<p align="left"><strong>Welcome to my personal cybersecurity learning repository! 🚀</strong> ... This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.</p><br>
 
-<p align="left">
-  <strong>Welcome to my personal cybersecurity learning repository! 🚀</strong><br>
-  This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.
-</p>
+------------------------------------------------------------
 
----
-
-## 🗂️ Repository Architecture
-
+<br><h2 align="left">🗂️ Repository Architecture</h2><br>
 <blockquote>
-  <p>To ensure maximum organization, this repository maps my progress stage-by-stage. Each course folder follows a strict, highly-structured blueprint:</p>
+  <p>To ensure maximum organization, this repository maps my progress stage-by-stage. Each course folder follows a strict, highly-structured blueprint :</p>
 </blockquote>
 
-### 📦 infosec-journey
-&nbsp;&nbsp; ┗ 📂 **Phase-00-IT-Fundamentals**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┗ 📂 **Course-Name** *(e.g., CompTIA-Network+)*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣ 📂 **01-Summaries** *(Organized by Domains & Chapters)*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣ 📂 **02-Practical-Labs** *(Mapped directly to chapters with screenshots)*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣ 📂 **03-Cheatsheets** *(Compiled commands, acronyms, and syntax shortcuts)*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┗ 📜 **Exam-Preparation.md** *(Practice exam scores, analysis, and weak points)*  
+### 📦 infosec-journey  
+  - 📂 **Phase-Name** *( e.g., Phase-00-IT-Fundamentals )* 
+  	- 📂 **Course-Name** *( e.g., CompTIA-Network+ )*
+	  	- 📂 **01-Summaries** *( Organized by Domains & Chapters )*
+		  - 📂 **02-Practical-Labs** *( Mapped directly to chapters with screenshots )*
+	  	- 📂 **03-Cheatsheets** *( Compiled commands, acronyms, and syntax shortcuts )*
+		  - 📜 **Exam-Preparation.md** *( Practice exam scores, analysis, and weak points )*
 
----
-
-## ⚡ Technical Skills in Development
+<br> ------------------------------------------------------ <br>
+<br><h2 align="left">⚡ Technical Skills in Development</h2><br>
 
 <p>While moving through these phases, I focus on mastering:</p>
 
