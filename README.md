@@ -7,8 +7,8 @@
 
 <h3 align="left">🚀 Repository Overview</h3>
 <div align="left">
-  • Welcome to my centralized cybersecurity knowledge base. This repository is a living document of my journey into **Offensive Security**. Every note, lab, and script here is the result of deep-dive study followed by digital synthesis.<br>
-  • <strong>"If you can't explain it simply, you don't understand it well enough."</strong> – This repository is my proof of understanding.
+&nbsp;&nbsp;&nbsp;&nbsp; Welcome to my centralized cybersecurity knowledge base. This repository is a living document of my journey into <strong>Offensive Security</strong>. Every note, lab, and script here is the result of deep-dive study followed by digital synthesis.<br>
+<P align="center"><strong>"If you can't explain it simply, you don't understand it well enough."</strong> – This repository is my proof of understanding.</P>
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
