@@ -14,10 +14,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<details>
-<summary><b>🧭 Navigation Center</b></summary>
-
 <details>
   <summary><b>📑 Table of Contents ( Quick Access )</b></summary>
   <pre>
@@ -86,7 +82,7 @@
 
 <details>
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
-  <pre>
+  <pre style="line-height: 1.6; font-family: 'Courier New', Courier, monospace;">
     • <b>📂 Infosec-Journey</b>
     |    • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
     |    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
