@@ -14,7 +14,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">📑 Table of Contents ( Quick Access )</h3>
+<details>
+<summary><h3 align="left">📑 Table of Contents ( Quick Access )</h3></summary>
 <div align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
@@ -28,6 +29,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; • 📂 <a href="#">MD-100-Windows Client</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
 </div>
+</details>
 
 <details>
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
