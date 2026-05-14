@@ -84,7 +84,7 @@
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
   <pre>
     • <b>📂 Infosec-Journey</b>
-<font size="1" color="transparent">|</font>
+<font>&nbsp;</font>
     |    • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
     |    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
     |    |    |    • <b>📂 01-Summaries</b> : ( Organized by Domains & Chapters )
