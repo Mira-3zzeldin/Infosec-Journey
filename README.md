@@ -17,6 +17,7 @@
 <details>
   <summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
   <pre>
+    
     • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
     |    • 📂 <a href="#">CompTIA IT Fundamentals+</a>
     |    |    • 📂 <a href="#">01-Summaries</a>
@@ -84,13 +85,15 @@
 <details>
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
   <pre>
+    
     • <b>📂 Infosec-Journey</b>
     |    • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
     |    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
     |    |    |    • <b>📂 01-Summaries</b> : ( Organized by Domains & Chapters )
     |    |    |    • <b>📂 02-Practical-Labs</b> : ( Mapped directly to chapters with screenshots )
     |    |    |    • <b>📂 03-Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )
-    |    |    |    • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )  
+    |    |    |    • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )
+    
   </pre>
   <br><hr><br>
 </details>
