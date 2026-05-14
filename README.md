@@ -25,24 +25,14 @@
 <details>
 <summary>🗂️ <b>Repository Architecture</b> (The Blueprint)</summary><br>
 
-```
-📂 **infosec-journey**
-    • 📂 **Phase-xx-Name** : ( e.g., Phase-00-IT-Fundamentals )
-        • 📂 **Course-Name** : ( e.g., CompTIA-Network+ )
-            • 📂 **01-Summaries** : ( Organized by Domains & Chapters )
-            • 📂 **02-Practical-Labs** : ( Mapped directly to chapters with screenshots )
-            • 📂 **03-Cheatsheets** : ( Compiled commands, acronyms, and syntax shortcuts )
-            • 📜 **Exam-Preparation.md** : ( Practice exam scores, analysis, and weak points )
-```
-
 <pre>
-📂 <b>infosec-journey</b>
-   • 📂 <b>Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
-       • 📂 <b>Course-Name</b> : ( e.g., CompTIA-Network+ )
-           • 📂 <b>01-Summaries</b> : ( Organized by Domains & Chapters )
-           • 📂 <b>02-Practical-Labs</b> : ( Mapped directly to chapters with screenshots )
-           • 📂 <b>03-Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )
-           • 📜 <b>Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )
+  <b>📂 infosec-journey</b>
+    |  <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
+    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
+    |      • <b>📂 01-Summaries</b> : ( Organized by Domains & Chapters )
+    |      • <b>📂 02-Practical-Labs</b> : ( Mapped directly to chapters with screenshots )
+    |      • <b>📂 03-Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )
+    |      • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )
 </pre>
 
 </details>
