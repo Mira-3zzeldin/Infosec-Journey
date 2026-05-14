@@ -27,24 +27,88 @@
 </div>
 
 ---
-<table border="0" cellpadding="0" cellspacing="0">
+
+<details>
+<summary><b>📑 Table of Contents ( Quick Access )</b></summary>
+<div align="left">
+<ul>
+  <!-- Phase 00 -->
+  <li>📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
+    <ul>
+      <li>📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>📂 <a href="#">CompTIA-A+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>📂 <a href="#">OS-Concepts-by-Silberschatz</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>📂 <a href="#">CompTIA-Network+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+    </ul>
+  </li>
+<br>
+  <!-- Phase 01 -->
+  <li>📂 <a href="#">Phase-01-Operating-Systems</a>
+    <ul>
+      <li>📂 <a href="#">CompTIA-Linux+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>📂 <a href="#">MTA-98-349-Windows-OS</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>📂 <a href="#">MD-100-Windows Client</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+    </ul>
+  </li>
+</ul>
+</details>
+
+<details>
+<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
+<!-- Phase 0 -->
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
   <tr>
-    <td>
-      <details>
-        <summary><h3>📑 Table of Contents ( Quick Access )</h3></summary>
-        <!-- محتوى الفهرس هنا -->
-      </details>
-    </td>
+    <td><b>Certifications</b></td>
+    <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
   </tr>
   <tr>
-    <td>
-      <details>
-        <summary><h3>🚀 My Technical Roadmap & Learning Path</h3></summary>
-        <!-- محتوى الخريطة هنا -->
-      </details>
-    </td>
+    <td><b>Practical Labs</b></td>
+    <td>TestOut Labs, Wireshark, Cisco Packet Tracer</td>
+  </tr>
+  <tr>
+    <td><b>Theoretical Foundations</b></td>
+    <td>Operating System Concepts ( by Silberschatz ), Popular Suites ( Office, Google Suite )</td>
   </tr>
 </table>
+<br><hr><br>
+
+<!-- Phase 1 -->
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
+  <tr>
+    <td><b>🐧 Linux</b></td>
+    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, VMware : Ubuntu</td>
+  </tr>
+  <tr>
+    <td><b>🪟 Windows</b></td>
+    <td>MTA 98-349 ( Windows OS Fundamentals ), MD-100 ( Windows Client ), Microsoft Learn Labs, VMware</td>
+  </tr>
+  <tr>
+    <td><b>🍏 macOS</b></td>
+    <td>macOS Terminal & Shell ( Kirk McElhearn ), Apple Official Guide</td>
+  </tr>
+</table>
+<br><hr><br>
+
+<!-- Phase 2 -->
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
+  <tr>
+    <td><b>📡 Cisco</b></td>
+    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
+  </tr>
+  <tr>
+    <td><b>🧪 Analysis</b></td>
+    <td>WCNA ( by Laura Chappell ), Wireshark, VMware, malware-traffic-analysis, cyberdefenders, TryHackMe</td>
+  </tr>
+  <tr>
+    <td><b>🔥 Firewall</b></td>
+    <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange, TryHackMe | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
+  </tr>
+</table>
+</details>
 
 ---
 
