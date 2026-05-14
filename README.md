@@ -17,14 +17,10 @@
 <details>
   <summary><b>📑 Table of Contents ( Quick Access )</b></summary>
   <pre>
-    <details>
-      <summary>    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a></summary>
-      <details>
-        <summary>    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a></summary>
-        <details>
-          <summary>    |    |    • 📂 <a href="#">01-Summaries</a></summary>
-        </details></details></details></pre></details>
-        
+    • 📂 Infosec-Journey
+    |    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
+    |    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a>
+    |    |    |    • 📂 <a href="#">01-Summaries</a>
     |    |    |    |    • <a href="#">Domain-01-DomainName</a>
     |    |    |    |    |    • <a href="#">Chapter-01-Summary</a>
     |    |    |    |    |    • <a href="#">Chapter-02-Summary</a>
@@ -86,8 +82,9 @@
 
 <details>
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
-  <pre style="line-height: 10; font-family: 'Courier New', Courier, monospace;">
+  <pre>
     • <b>📂 Infosec-Journey</b>
+<font size="1" color="transparent">|</font>
     |    • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
     |    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
     |    |    |    • <b>📂 01-Summaries</b> : ( Organized by Domains & Chapters )
