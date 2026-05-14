@@ -194,7 +194,7 @@
 
 <div align="center">
 <p><b>"In the world of bits and bytes, depth is the only true defense."</b> 🛡️</p>
-<p>Built with 🧠 and ☕ by <b>Mira-3zzeldin</b></p>
+<p>Crafted with 🧠, Fueled by ☕ and Driven by Passion. - Developed by <b>Mira-3zzeldin</b></p>
 <p><small>© 2026 | Offensive Security Learning Journey</small></p>
-<p><small><a href="#-table-of-contents--quick-access-">Return to Root ↗️</a></small></p>
+<p><b>[ 🏁 End of Session ]</b></p>
 </div>
