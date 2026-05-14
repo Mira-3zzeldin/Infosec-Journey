@@ -174,21 +174,25 @@
 
 <h3 align="left">🤝 Connect & Collaboration</h3>
 <div>
-&nbsp; &nbsp; &nbsp; &nbsp; I am always looking to sync with fellow researchers, recruiters, and elite CTF teams. Whether you want to discuss a technical<br>
-&nbsp; &nbsp; &nbsp; &nbsp; deep-dive, suggest a better exploit path, or report an inaccuracy - I value every piece of feedback from the community. 🛡️<br><br>
+&nbsp; &nbsp; &nbsp; &nbsp; I am always looking to sync with fellow researchers, recruiters, and elite CTF teams. Whether you want to discuss<br>
+&nbsp; &nbsp; &nbsp; &nbsp; a technical deep-dive, suggest a better exploit path, or report an inaccuracy - I value every piece of <br>
+&nbsp; &nbsp; &nbsp; &nbsp; feedback from the community. 🛡️<br><br>
 
 🌐 <b>Find me on :</b> 
-    <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> | 
-    <a href="YOUR_HASHNODE_LINK">Technical Blog</a> | 
-    <a href="YOUR_Discord_LINK">Discord</a> | 
+    <a href="Link">LinkedIn</a> | 
+    <a href="Link">Technical Blog</a> | 
+    <a href="Link">Discord</a> | 
+    <a href="Link">Twitter</a> | 
+    <a href="Link">Gmail</a><br><br>
 
-    📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>. Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
+📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
 </div>
 
 ---
 
 <h3 align="left">⚠️ Disclaimer</h3>
 <div>
-&nbsp; &nbsp; &nbsp; &nbsp; This repository is created for educational purposes only. I am committed to <b>Ethical Hacking</b>. Any unauthorized
+&nbsp; &nbsp; &nbsp; &nbsp; This repository is created for educational purposes only. I am committed to <b>Ethical Hacking</b>. Any unauthorized <br>
 &nbsp; &nbsp; &nbsp; &nbsp; use of these techniques against systems without prior consent is strictly illegal.
 </div>
