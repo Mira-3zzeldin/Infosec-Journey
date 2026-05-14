@@ -17,11 +17,10 @@
 <details>
   <summary><b>📑 Table of Contents ( Quick Access )</b></summary>
   <pre>
-    • 📂 Infosec-Journey
     <details>
-    |    <summary>• 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a></summary>
-         <details>
-    |    |    <summary>• 📂 <a href="#">CompTIA IT Fundamentals+</a></summary>
+      <summary>    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a></summary>
+    |    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
+    |    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a>
     |    |    |    • 📂 <a href="#">01-Summaries</a>
     |    |    |    |    • <a href="#">Domain-01-DomainName</a>
     |    |    |    |    |    • <a href="#">Chapter-01-Summary</a>
@@ -49,8 +48,7 @@
     |    |    |    |    • <a href="#">Cheatsheet-04-Name</a>
     |    |    |
     |    |    |    • 📜 <a href="#">Exam-Preparation.md</a>
-         </details>
-    |    |    
+    |    |
     |    |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a>
     |    |    |    • 📂 <a href="#">01-Summaries</a>
     |    |    |    |    • <a href="#">Domain-01-DomainName</a>
@@ -79,7 +77,6 @@
     |    |    |    |    • <a href="#">Cheatsheet-04-Name</a>
     |    |    |
     |    |    |    • 📜 <a href="#">Exam-Preparation.md</a>
-    </details>
   </pre>
   <br><hr><br>
 </details>
