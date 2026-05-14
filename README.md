@@ -14,73 +14,11 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<details>
-  <summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
-  <pre>
-    <font>&nbsp;</font>
+<h3 align="left">📑 Table of Contents ( Quick Access )</h3>
+<div align="left">
     • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
-    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a>
-    |    |    • 📂 <a href="#">01-Summaries</a>
-    |    |    |    • <a href="#">Domain-01-DomainName</a>
-    |    |    |    |    • <a href="#">Chapter-01-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-02-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-03-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-04-Summary</a>
-    |    |    |    
-    |    |    |    • <a href="#">Domain-02-DomainName</a>
-    |    |    |    |    • <a href="#">Chapter-01-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-02-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-03-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-04-Summary</a>
-    |    |
-    |    |    • 📂 <a href="#">02-Practical-Labs</a>
-    |    |    |    • <a href="#">Domain-01-DomainName</a>
-    |    |    |    |    • <a href="#">Lab-01</a>
-    |    |    |    |    • <a href="#">Lab-02</a>
-    |    |    |    |    • <a href="#">Lab-03</a>
-    |    |    |    |    • <a href="#">Lab-04</a>
-    |    |
-    |    |    • 📂 <a href="#">03-Cheatsheets</a>
-    |    |    |    • <a href="#">Cheatsheet-01-Name</a>
-    |    |    |    • <a href="#">Cheatsheet-02-Name</a>
-    |    |    |    • <a href="#">Cheatsheet-03-Name</a>
-    |    |    |    • <a href="#">Cheatsheet-04-Name</a>
-    |    |
-    |    |    • 📜 <a href="#">Exam-Preparation.md</a>
-    |    |
-    |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a>
-    |    |    • 📂 <a href="#">01-Summaries</a>
-    |    |    |    • <a href="#">Domain-01-DomainName</a>
-    |    |    |    |    • <a href="#">Chapter-01-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-02-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-03-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-04-Summary</a>
-    |    |    |    
-    |    |    |    • <a href="#">Domain-02-DomainName</a>
-    |    |    |    |    • <a href="#">Chapter-01-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-02-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-03-Summary</a>
-    |    |    |    |    • <a href="#">Chapter-04-Summary</a>
-    |    |
-    |    |    • 📂 <a href="#">02-Practical-Labs</a>
-    |    |    |    • <a href="#">Domain-01-DomainName</a>
-    |    |    |    |    • <a href="#">Lab-01</a>
-    |    |    |    |    • <a href="#">Lab-02</a>
-    |    |    |    |    • <a href="#">Lab-03</a>
-    |    |    |    |    • <a href="#">Lab-04</a>
-    |    |
-    |    |    • 📂 <a href="#">03-Cheatsheets</a>
-    |    |    |    • <a href="#">Cheatsheet-01-Name</a>
-    |    |    |    • <a href="#">Cheatsheet-02-Name</a>
-    |    |    |    • <a href="#">Cheatsheet-03-Name</a>
-    |    |    |    • <a href="#">Cheatsheet-04-Name</a>
-    |    |
-    |    |    • 📜 <a href="#">Exam-Preparation.md</a>
-    |    |
-    
-  </pre>
-  <br><hr><br>
-</details>
+    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )
+    |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )
 
 <details>
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
