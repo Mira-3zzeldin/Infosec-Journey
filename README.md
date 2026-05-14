@@ -194,7 +194,6 @@
 
 <div align="center">
 <p><b>"In the world of bits and bytes, depth is the only true defense."</b> 🛡️</p>
-<p>Crafted with Passion by Mira Ezz-Eldin to Master Penteration Testing</p>
-<p><small>© 2026 | Offensive Security Learning Journey</small></p>
+<p><small>© 2026 | Offensive Security Learning Journey | by Mira-3zzeldin</small></p>
 <p><b>[ 🏁 End of Session ]</b></p>
 </div>
