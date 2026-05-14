@@ -29,19 +29,23 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">MD-100-Windows Client</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
 </div>
-<br><hr><br>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 </details>
 
 <details>
 <summary><h3 align="left">🗂️ Repository Architecture ( The Blueprint )</h3></summary>
 <div align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>📂 Infosec-Journey</b>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Summaries</b> : ( Organized by Domains & Chapters )
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Practical-Labs</b> : ( Mapped directly to chapters with screenshots )
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>📂 Infosec-Journey</b><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Summaries</b> : ( Organized by Domains & Chapters )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Practical-Labs</b> : ( Mapped directly to chapters with screenshots )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )<br>
 </div>
-<br><hr><br>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 </details>
