@@ -16,6 +16,7 @@
 
 <details>
   <summary><b>📑 Table of Contents ( Quick Access )</b></summary>
+  <font>&nbsp;</font>
   <pre>
     • 📂 Infosec-Journey
     |    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
@@ -84,7 +85,6 @@
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
   <pre>
     • <b>📂 Infosec-Journey</b>
-<font>&nbsp;</font>
     |    • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
     |    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
     |    |    |    • <b>📂 01-Summaries</b> : ( Organized by Domains & Chapters )
