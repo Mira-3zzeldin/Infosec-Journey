@@ -36,7 +36,7 @@
 <h3 align="left">🏛️ Repository Architecture</h3>
 <div>
 &nbsp; &nbsp; &nbsp; &nbsp; To ensure maximum organization, this repository follows a strict, highly-structured blueprint where each course have four strategic layers :</p>
-&nbsp; &nbsp; &nbsp; &nbsp; <ul>
+  <ul>
     <li><b>01-Summaries :</b> Theoretical breakdowns of core concepts and exam domains.</li>
     <li><b>02-Practical-Labs :</b> Hands-on documentation with step-by-step screenshots and results.</li>
     <li><b>03-Cheatsheets :</b> Quick-access technical references for commands, syntax, and shortcuts.</li>
