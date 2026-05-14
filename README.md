@@ -29,7 +29,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
-<summary><h4>📑 Table of Contents ( Quick Access )</h4></summary><br>
+<summary><h3>📑 Table of Contents ( Quick Access )</h3></summary>
 <div align="left">
 <ul>
   <!-- Phase 00 -->
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-<summary><h4>🚀 My Technical Roadmap & Learning Path</h4></summary><br>
+<summary><h3>🚀 My Technical Roadmap & Learning Path</h3></summary>
 <!-- Phase 0 -->
 <table width="100%">
   <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
