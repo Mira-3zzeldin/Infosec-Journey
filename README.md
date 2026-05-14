@@ -112,6 +112,24 @@
 <br><hr><br>
 </details>
 
+---
+
+<h3 align="left">📚 Resources & Credits</h3>
+<div>
+&nbsp; &nbsp; &nbsp; &nbsp; This journey would not have been possible without the invaluable guidance of world-class mentors and industry<br>
+&nbsp; &nbsp; &nbsp; &nbsp; leading platforms. 🌟 I am deeply grateful to the following pioneers whose educational frameworks have <br>
+&nbsp; &nbsp; &nbsp; &nbsp; shaped my technical foundation and offensive mindset 🌱 :<br><br>
+<ul>
+  <li>&nbsp; &nbsp; <b>CompTIA :</b> Providing the gold standard in IT foundations and certification pathways.</li>
+  <li>&nbsp; &nbsp; <b>TryHackMe & HTB :</b> Transforming theoretical knowledge into tactical offensive skills.</li>
+  <li>&nbsp; &nbsp; <b>Total Seminars ( Mike Meyers ) :</b> Delivering profound clarity in complex computing architectures.</li>
+  <li>&nbsp; &nbsp; <b>Silberschatz ( OS Concepts ) :</b> Providing academic depth to master operating system internals.</li>
+  <li>&nbsp; &nbsp; <b>Cyber Security Roadmap :</b> Strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh</a> community standard.</li>
+</ul>
+</div>
+
+---
+
 <details>
   <summary><b>🏅 Certifications & Badges</b></summary><br>
   <table width="100%">
@@ -137,22 +155,6 @@
 </ul>
 <br>
 </details>
-
----
-
-<h3 align="left">📚 Resources & Credits</h3>
-<div>
-&nbsp; &nbsp; &nbsp; &nbsp; This journey would not have been possible without the invaluable guidance of world-class mentors and<br>
-&nbsp; &nbsp; &nbsp; &nbsp; industry-leading platforms. I am deeply grateful to the following pioneers whose educational<br>
-&nbsp; &nbsp; &nbsp; &nbsp; frameworks have shaped my technical foundation and offensive mindset :<br><br>
-<ul>
-  <li>&nbsp; &nbsp; <b>CompTIA :</b> Providing the gold standard in IT foundations and certification pathways.</li>
-  <li>&nbsp; &nbsp; <b>TryHackMe & HTB :</b> Transforming theoretical knowledge into tactical offensive skills.</li>
-  <li>&nbsp; &nbsp; <b>Total Seminars ( Mike Meyers ) :</b> Delivering profound clarity in complex computing architectures.</li>
-  <li>&nbsp; &nbsp; <b>Silberschatz ( OS Concepts ) :</b> Providing academic depth to master operating system internals.</li>
-  <li>&nbsp; &nbsp; <b>Cyber Security Roadmap :</b> Strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh</a> community standard.</li>
-</ul>
-</div>
 
 ---
 
