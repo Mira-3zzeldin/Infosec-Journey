@@ -117,7 +117,7 @@
 <h3 align="left">📚 Resources & Credits</h3>
 <div>
 &nbsp; &nbsp; &nbsp; &nbsp; This journey would not have been possible without the invaluable guidance of world-class mentors and industry<br>
-&nbsp; &nbsp; &nbsp; &nbsp; leading platforms. 🌟 I am deeply grateful to the following pioneers whose educational frameworks have <br>
+&nbsp; &nbsp; &nbsp; &nbsp; leading platforms. I am deeply grateful to the following pioneers whose educational frameworks have <br>
 &nbsp; &nbsp; &nbsp; &nbsp; shaped my technical foundation and offensive mindset 🌱 :<br><br>
 <ul>
   <li>&nbsp; &nbsp; <b>CompTIA :</b> Providing the gold standard in IT foundations and certification pathways.</li>
@@ -158,7 +158,7 @@
 
 ---
 
-<h3 align="left">🧪 Learning Strategy & Methodology</h3>
+<h3 align="left">📈 Learning Strategy & Methodology</h3>
 <div>
 &nbsp; &nbsp; &nbsp; &nbsp; <b>To master the shadows, one must first understand the light 🌓</b> ... My approach to <b>Offensive Security</b> is rooted<br>
 &nbsp; &nbsp; &nbsp; &nbsp; in the "Core-First" principle: mastering system architecture and protocols before exploitation. I believe <br>
@@ -171,3 +171,24 @@
 </div>
 
 ---
+
+<h3 align="left">🤝 Connect & Collaboration</h3>
+<div>
+&nbsp; &nbsp; &nbsp; &nbsp; I am always looking to sync with fellow researchers, recruiters, and elite CTF teams. Whether you want to discuss a technical<br>
+&nbsp; &nbsp; &nbsp; &nbsp; deep-dive, suggest a better exploit path, or report an inaccuracy - I value every piece of feedback from the community. 🛡️<br><br>
+
+🌐 <b>Find me on :</b> 
+    <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> | 
+    <a href="YOUR_HASHNODE_LINK">Technical Blog</a> | 
+    <a href="YOUR_Discord_LINK">Discord</a> | 
+
+    📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>. Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
+</div>
+
+---
+
+<h3 align="left">⚠️ Disclaimer</h3>
+<div>
+&nbsp; &nbsp; &nbsp; &nbsp; This repository is created for educational purposes only. I am committed to <b>Ethical Hacking</b>. Any unauthorized
+&nbsp; &nbsp; &nbsp; &nbsp; use of these techniques against systems without prior consent is strictly illegal.
+</div>
