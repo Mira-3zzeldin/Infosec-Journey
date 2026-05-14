@@ -35,12 +35,13 @@
 
 <h3 align="left">🏛️ Repository Architecture</h3>
 <div>
-&nbsp; &nbsp; &nbsp; &nbsp; To ensure maximum organization, this repository follows a strict, highly-structured blueprint where each course have four strategic layers :
+&nbsp; &nbsp; &nbsp; &nbsp; To ensure maximum organization, this repository follows a strict, highly-structured blueprint where each course <br>
+&nbsp; &nbsp; &nbsp; &nbsp; is partitioned into four strategic layers :<br>
   <ul>
-    <li>&nbsp; &nbsp; &nbsp; &nbsp; <b>01-Summaries :</b> Theoretical breakdowns of core concepts and exam domains.</li>
-    <li>&nbsp; &nbsp; &nbsp; &nbsp; <b>02-Practical-Labs :</b> Hands-on documentation with step-by-step screenshots and results.</li>
-    <li>&nbsp; &nbsp; &nbsp; &nbsp; <b>03-Cheatsheets :</b> Quick-access technical references for commands, syntax, and shortcuts.</li>
-    <li>&nbsp; &nbsp; &nbsp; &nbsp; <b>Exam-Preparation.md :</b> A dedicated tracker for progress analytics and exam readiness.</li>
+    <li>&nbsp; &nbsp; <b>01-Summaries :</b> Theoretical breakdowns of core concepts and exam domains.</li>
+    <li>&nbsp; &nbsp; <b>02-Practical-Labs :</b> Hands-on documentation with step-by-step screenshots and results.</li>
+    <li>&nbsp; &nbsp; <b>03-Cheatsheets :</b> Quick-access technical references for commands, syntax, and shortcuts.</li>
+    <li>&nbsp; &nbsp; <b>Exam-Preparation.md :</b> A dedicated tracker for progress analytics and exam readiness.</li>
   </ul>
 </div>
 
