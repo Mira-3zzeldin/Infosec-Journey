@@ -28,11 +28,11 @@
 
 ---
 
-<div>
 <details>
 <summary><h3>📑 Table of Contents ( Quick Access )</h3></summary>
 <div align="left">
 <ul>
+  <!-- Phase 00 -->
   <li>📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
     <ul>
       <li>📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
@@ -42,6 +42,7 @@
     </ul>
   </li>
 <br>
+  <!-- Phase 01 -->
   <li>📂 <a href="#">Phase-01-Operating-Systems</a>
     <ul>
       <li>📂 <a href="#">CompTIA-Linux+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
@@ -52,8 +53,12 @@
   </li>
 </ul>
 </details>
+
+<p>---------------------------------------------</p>
+
 <details>
 <summary><h3>🚀 My Technical Roadmap & Learning Path</h3></summary><br>
+<!-- Phase 0 -->
 <table width="100%">
   <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
   <tr>
@@ -70,6 +75,8 @@
   </tr>
 </table>
 <br><hr><br>
+
+<!-- Phase 1 -->
 <table width="100%">
   <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
   <tr>
@@ -86,6 +93,8 @@
   </tr>
 </table>
 <br><hr><br>
+
+<!-- Phase 2 -->
 <table width="100%">
   <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
   <tr>
@@ -102,7 +111,6 @@
   </tr>
 </table>
 </details>
-</div>
 
 ---
 
