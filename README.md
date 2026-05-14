@@ -16,9 +16,9 @@
 
 <h3 align="left">📑 Table of Contents ( Quick Access )</h3>
 <p align="left">
-    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
-    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )
-    |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )
+    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
+    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
+    |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 </p>
 
 <div align="left">
