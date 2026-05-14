@@ -29,7 +29,7 @@
 ---
 
 <details>
-<summary><b>📑 Table of Contents ( Quick Access )</b></summary>
+<summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
 <div align="left">
 <ul>
   <!-- Phase 00 -->
@@ -51,6 +51,7 @@
       <li>📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
     </ul>
   </li>
+<br>
 </ul>
 </details>
 
@@ -108,6 +109,7 @@
     <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange, TryHackMe | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
   </tr>
 </table>
+<br><hr><br>
 </details>
 
 <details>
@@ -120,10 +122,11 @@
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" title="JavaScript"></td>
     </tr>
   </table>
+<br>
 </details>
 
 <details>
-<summary><b>🧪 Lab Highlights</b></summary>
+<summary><b>🧪 Lab Highlights</b></summary><br>
 <div align="left">
 <ul>
   <li>📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
@@ -138,16 +141,16 @@
 
 <h3 align="left">📚 Resources & Credits</h3>
 <div>
-&nbsp; &nbsp; &nbsp; &nbsp; This journey would not have been possible without the invaluable guidance of world-class mentors and industry-leading<br>
-&nbsp; &nbsp; &nbsp; &nbsp; platforms. I am deeply grateful to the following pioneers whose educational frameworks have shaped my technical<br>
-&nbsp; &nbsp; &nbsp; &nbsp; foundation and offensive mindset :
-  <ul>
-    <li>&nbsp; &nbsp; <b>CompTIA :</b> For providing the industry’s gold standard in IT foundations and professional certification pathways.</li>
-    <li>&nbsp; &nbsp; <b>TryHackMe & Hack The Box :</b> For the hands-on offensive playgrounds that transformed my theoretical knowledge into tactical skills.</li>
-    <li>&nbsp; &nbsp; <b>Total Seminars ( Mike Meyers ) :</b> For the profound technical clarity and making complex computing architectures accessible to everyone.</li>
-    <li>&nbsp; &nbsp; <b>Silberschatz ( OS Concepts ) :</b> For the academic depth that helped me master the inner workings of operating systems.</li>
-    <li>&nbsp; &nbsp; <b>Cyber Security Roadmap :</b> My learning path is strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh Cyber Security</a> community standard.</li>
-  </ul>
+&nbsp; &nbsp; &nbsp; &nbsp; This journey would not have been possible without the invaluable guidance of world-class mentors and<br>
+&nbsp; &nbsp; &nbsp; &nbsp; industry-leading platforms. I am deeply grateful to the following pioneers whose educational<br>
+&nbsp; &nbsp; &nbsp; &nbsp; frameworks have shaped my technical foundation and offensive mindset :<br><br>
+<ul>
+  <li><b>CompTIA :</b> Providing the gold standard in IT foundations and certification pathways.</li>
+  <li><b>TryHackMe & HTB :</b> Transforming theoretical knowledge into tactical offensive skills.</li>
+  <li><b>Total Seminars ( Mike Meyers ) :</b> Delivering profound clarity in complex computing architectures.</li>
+  <li><b>Silberschatz ( OS Concepts ) :</b> Providing academic depth to master operating system internals.</li>
+  <li><b>Cyber Security Roadmap :</b> Strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh</a> community standard.</li>
+</ul>
 </div>
 
 ---
