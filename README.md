@@ -193,7 +193,7 @@
 ---
 
 <div align="center">
-<p><b>"In the world of bits and bytes, depth is the only true defense."</b> 🛡️</p>
+<p><b>"In the digital shadows, precision is the only difference between a researcher and a ghost."</b> 🛡️</p>
 <p><small>© 2026 | Offensive Security Learning Journey | by Mira-3zzeldin</small></p>
 <p><b>[ 🏁 End of Session ]</b></p>
 </div>
