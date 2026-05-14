@@ -29,17 +29,20 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">MD-100-Windows Client</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
 </div>
+</details>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</details>
+<section>
+  <h3>🏛️ Repository Architecture</h3>
+  <p>To ensure maximum organization, this repository follows a strict, highly-structured blueprint where each course is partitioned into four strategic layers:</p>
+  
+  <ul>
+    <li><b>01-Summaries:</b> Theoretical breakdowns of core concepts and exam domains.</li>
+    <li><b>02-Practical-Labs:</b> Hands-on documentation with step-by-step screenshots and results.</li>
+    <li><b>03-Cheatsheets:</b> Quick-access technical references for commands, syntax, and shortcuts.</li>
+    <li><b>Exam-Preparation.md:</b> A dedicated tracker for progress analytics and exam readiness.</li>
+  </ul>
+</section>
 
-<details>
-<summary><h3 align="left">📜 Repository Architecture ( The Blueprint )</h3></summary>
-<div align="left">
-> Infosec-Journey > Phase-xx-Name > Course-Name</b> > ( Summaries, Practical-Labs, Cheatsheets, Exam-Preparation.md
-</div>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-</details>
+<hr>
