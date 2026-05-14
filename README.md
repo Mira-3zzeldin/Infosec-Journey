@@ -135,6 +135,7 @@
   <li>📂 <a href="#">Phase-01-Operating-Systems</a>
   <li>📂 <a href="#">Phase-01-Operating-Systems</a>
 </ul>
+<br>
 </details>
 
 ---
@@ -145,11 +146,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp; industry-leading platforms. I am deeply grateful to the following pioneers whose educational<br>
 &nbsp; &nbsp; &nbsp; &nbsp; frameworks have shaped my technical foundation and offensive mindset :<br><br>
 <ul>
-  <li><b>CompTIA :</b> Providing the gold standard in IT foundations and certification pathways.</li>
-  <li><b>TryHackMe & HTB :</b> Transforming theoretical knowledge into tactical offensive skills.</li>
-  <li><b>Total Seminars ( Mike Meyers ) :</b> Delivering profound clarity in complex computing architectures.</li>
-  <li><b>Silberschatz ( OS Concepts ) :</b> Providing academic depth to master operating system internals.</li>
-  <li><b>Cyber Security Roadmap :</b> Strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh</a> community standard.</li>
+  <li>&nbsp; &nbsp; <b>CompTIA :</b> Providing the gold standard in IT foundations and certification pathways.</li>
+  <li>&nbsp; &nbsp; <b>TryHackMe & HTB :</b> Transforming theoretical knowledge into tactical offensive skills.</li>
+  <li>&nbsp; &nbsp; <b>Total Seminars ( Mike Meyers ) :</b> Delivering profound clarity in complex computing architectures.</li>
+  <li>&nbsp; &nbsp; <b>Silberschatz ( OS Concepts ) :</b> Providing academic depth to master operating system internals.</li>
+  <li>&nbsp; &nbsp; <b>Cyber Security Roadmap :</b> Strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh</a> community standard.</li>
 </ul>
 </div>
 
