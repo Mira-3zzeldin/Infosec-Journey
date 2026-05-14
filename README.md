@@ -29,7 +29,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
-<summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
+<summary><h4>📑 Table of Contents ( Quick Access )</h4></summary><br>
 <div align="left">
 <ul>
   <!-- Phase 00 -->
@@ -52,24 +52,10 @@
     </ul>
   </li>
 </ul>
-  
-&nbsp; &nbsp; &nbsp; &nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-A+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">OS-Concepts-by-Silberschatz</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-Network+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
-
-&nbsp; &nbsp; &nbsp; &nbsp; • 📂 <a href="#">Phase-01-Operating-Systems</a><br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-Linux+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">MTA-98-349-Windows-OS</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">MD-100-Windows Client</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
-</div>
 </details>
 
 <details>
-<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
-<br><br>
+<summary><h4>🚀 My Technical Roadmap & Learning Path</h4></summary><br>
 <!-- Phase 0 -->
 <table width="100%">
   <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
