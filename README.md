@@ -22,19 +22,17 @@
 <summary><b>📑 Table of Contents ( Quick Access )</b></summary>
 </details>
 
-
 <details>
 <summary>🗂️ <b>Repository Architecture</b> (The Blueprint)</summary>
 
 <br>
 
-```text
-📂 infosec-journey
-└── 📂 Phase-xx-Name (e.g., Phase-00-IT-Fundamentals)
-    └── 📂 Course-Name (e.g., CompTIA-Network+)
-        ├── 📂 01-Summaries (Organized by Domains & Chapters)
-        ├── 📂 02-Practical-Labs (Mapped directly to chapters with screenshots)
-        ├── 📂 03-Cheatsheets (Compiled commands, acronyms, and syntax shortcuts)
-        └── 📜 Exam-Preparation.md (Practice exam scores, analysis, and weak points)
+📂 **infosec-journey**
+• 📂 **Phase-xx-Name** : ( e.g., Phase-00-IT-Fundamentals )
+&nbsp;&nbsp;&nbsp;&nbsp; • 📂 **Course-Name** : ( e.g., CompTIA-Network+ )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 📂 **01-Summaries** : ( Organized by Domains & Chapters )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 📂 **02-Practical-Labs** : ( Mapped directly to chapters with screenshots )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 📂 **03-Cheatsheets** : ( Compiled commands, acronyms, and syntax shortcuts )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 📜 **Exam-Preparation.md** : ( Practice exam scores, analysis, and weak points )
 
 </details>
