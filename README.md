@@ -178,14 +178,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp; a technical deep-dive, suggest a better exploit path, or report an inaccuracy - I value every piece of <br>
 &nbsp; &nbsp; &nbsp; &nbsp; feedback from the community. 🛡️<br><br>
 
-🌐 <b>Find me on :</b> 
-    <a href="Link">LinkedIn</a> | 
-    <a href="Link">Technical Blog</a> | 
-    <a href="Link">Discord</a> | 
-    <a href="Link">Twitter</a> | 
-    <a href="Link">Gmail</a><br><br>
-
-📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>.
+&nbsp; &nbsp; &nbsp; &nbsp; 🌐 <b>Find me on :</b> <a href="Link">LinkedIn</a> | <a href="Link">Technical Blog</a> | <a href="Link">Discord</a> | <a href="Link">Twitter</a> | <a href="Link">Gmail</a><br>
+&nbsp; &nbsp; &nbsp; &nbsp; 📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
 </div>
 
