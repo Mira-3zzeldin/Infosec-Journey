@@ -3,7 +3,7 @@
   <code> Deployment: Initializing Phase 0 </code> | <code> Vector: IT Fundamentals </code> | <code> Standard: Learn • Exploit • Document </code>
 </div>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <h3 align="left">🚀 Repository Overview</h3>
 <div align="left">
@@ -12,7 +12,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <strong>"If you can't explain it simply, you don't understand it well enough."</strong> – This is my proof of understanding.
 </div>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <h3 align="left">🏛️ Repository Architecture</h3>
 <div>
@@ -26,7 +26,7 @@
   </ul>
 </div>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <details>
 <summary><h3>📑 Table of Contents ( Quick Access )</h3></summary>
@@ -54,8 +54,10 @@
 </ul>
 </details>
 
+---
+
 <details>
-<summary><h3>🚀 My Technical Roadmap & Learning Path</h3></summary>
+<summary><h3>🚀 My Technical Roadmap & Learning Path</h3></summary><br>
 <!-- Phase 0 -->
 <table width="100%">
   <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
