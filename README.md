@@ -192,9 +192,9 @@
 
 ---
 
-<br><div align="center">
-<b>"In the world of bits and bytes, depth is the only true defense."</b> 🛡️<br>
-Built with 🧠 and ☕ by <b>Mira-3zzeldin</b><br>
-<small>© 2026 | Offensive Security Learning Journey</small><br>
-<small><a href="#-table-of-contents--quick-access-">Return to Root ↗️</a></small>
+<div align="center">
+<p><b>"In the world of bits and bytes, depth is the only true defense."</b> 🛡️</p>
+<p>Built with 🧠 and ☕ by <b>Mira-3zzeldin</b></p>
+<p><small>© 2026 | Offensive Security Learning Journey</small></p>
+<p><small><a href="#-table-of-contents--quick-access-">Return to Root ↗️</a></small></p>
 </div>
