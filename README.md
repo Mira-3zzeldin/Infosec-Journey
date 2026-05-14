@@ -16,8 +16,7 @@
 
 <details>
   <summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
-  <pre>
-    
+  <pre><br>
     • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
     |    • 📂 <a href="#">CompTIA IT Fundamentals+</a>
     |    |    • 📂 <a href="#">01-Summaries</a>
