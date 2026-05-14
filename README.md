@@ -1,4 +1,4 @@
-<h1 align="center">🌐 InfoSec Journey</h1>
+<h1 align="center">🌐 InfoSec Journey : Offensive Security Path</h1>
 <div align="center">
   <code> Deployment: Initializing Phase 0 </code> | <code> Vector: IT Fundamentals </code> | <code> Standard: Learn • Exploit • Document </code>
 </div>
