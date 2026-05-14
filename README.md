@@ -29,7 +29,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
-<summary><b>📑 Table of Contents ( Quick Access )</b></summary
+<summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
 <div align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
@@ -44,9 +44,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
 </div>
 </details>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <details>
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
