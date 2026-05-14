@@ -110,6 +110,46 @@
 </table>
 </details>
 
+<details>
+  <summary><b>🏅 Certifications & Badges</b></summary><br>
+  <table width="100%">
+    <tr>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" title="Python"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40" title="Bash"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="40" title="GO"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" title="JavaScript"></td>
+    </tr>
+  </table>
+</details>
+
+<details>
+<summary><b>🧪 Lab Highlights</b></summary>
+<div align="left">
+<ul>
+  <li>📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
+  <li>📂 <a href="#">Phase-01-Operating-Systems</a>
+  <li>📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
+  <li>📂 <a href="#">Phase-01-Operating-Systems</a>
+  <li>📂 <a href="#">Phase-01-Operating-Systems</a>
+</ul>
+</details>
+
+---
+
+<h3 align="left">📚 Resources & Credits</h3>
+<div>
+&nbsp; &nbsp; &nbsp; &nbsp; This journey would not have been possible without the invaluable guidance of world-class mentors and industry-leading<br>
+&nbsp; &nbsp; &nbsp; &nbsp; platforms. I am deeply grateful to the following pioneers whose educational frameworks have shaped my technical<br>
+&nbsp; &nbsp; &nbsp; &nbsp; foundation and offensive mindset :
+  <ul>
+    <li>&nbsp; &nbsp; <b>CompTIA :</b> For providing the industry’s gold standard in IT foundations and professional certification pathways.</li>
+    <li>&nbsp; &nbsp; <b>TryHackMe & Hack The Box :</b> For the hands-on offensive playgrounds that transformed my theoretical knowledge into tactical skills.</li>
+    <li>&nbsp; &nbsp; <b>Total Seminars ( Mike Meyers ) :</b> For the profound technical clarity and making complex computing architectures accessible to everyone.</li>
+    <li>&nbsp; &nbsp; <b>Silberschatz ( OS Concepts ) :</b> For the academic depth that helped me master the inner workings of operating systems.</li>
+    <li>&nbsp; &nbsp; <b>Cyber Security Roadmap :</b> My learning path is strategically inspired by the <a href="https://roadmap.sh/cyber-security">Roadmap.sh Cyber Security</a> community standard.</li>
+  </ul>
+</div>
+
 ---
 
 <h3 align="left">🧪 Learning Strategy & Methodology</h3>
