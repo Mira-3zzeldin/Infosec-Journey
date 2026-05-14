@@ -38,12 +38,12 @@
 <summary><h3 align="left">🗂️ Repository Architecture ( The Blueprint )</h3></summary>
 <div align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>📂 Infosec-Journey</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Summaries</b> : ( Organized by Domains & Chapters )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Practical-Labs</b> : ( Mapped directly to chapters with screenshots )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; • <b>📂 Summaries</b> : ( Organized by Domains & Chapters )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; • <b>📂 Practical-Labs</b> : ( Mapped directly to chapters with screenshots )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; • <b>📂 Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )<br><br>
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
