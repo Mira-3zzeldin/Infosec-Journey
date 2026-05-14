@@ -5,8 +5,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🚀 Overview
-
 **Welcome to my personal cybersecurity learning repository! 🚀** ... This space is dedicated to documenting my continuous learning journey, technical notes, structured course summaries, and hands-on lab documentation as an aspiring Penetration Tester.
 
 > **"If you can't explain it simply, you don't understand it well enough."** – This repository is my proof of understanding.
