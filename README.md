@@ -7,7 +7,7 @@
 
 <h3 align="left">🚀 Repository Overview</h3>
 <div align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; Welcome to my centralized cybersecurity knowledge base. This repository is a living document of my journey into
+&nbsp; &nbsp; &nbsp; &nbsp; Welcome to my centralized cybersecurity knowledge base. This repository is a living document of my journey into<br>
 &nbsp; &nbsp; &nbsp; &nbsp; <strong>Offensive Security</strong>. Every note, lab, and script here is the result of deep-dive study followed by digital synthesis.<br><br>
 &nbsp; &nbsp; &nbsp; &nbsp; <strong>"If you can't explain it simply, you don't understand it well enough."</strong> – This is my proof of understanding.
 </div>
@@ -29,20 +29,19 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">MD-100-Windows Client</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
 </div>
+<br><hr><br>
 </details>
 
 <details>
-  <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
-  <pre>
-    
-    • <b>📂 Infosec-Journey</b>
-    |    • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
-    |    |    • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
-    |    |    |    • <b>📂 01-Summaries</b> : ( Organized by Domains & Chapters )
-    |    |    |    • <b>📂 02-Practical-Labs</b> : ( Mapped directly to chapters with screenshots )
-    |    |    |    • <b>📂 03-Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )
-    |    |    |    • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )
-    
-  </pre>
-  <br><hr><br>
+<summary><h3 align="left">🗂️ Repository Architecture ( The Blueprint )</h3></summary>
+<div align="left">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>📂 Infosec-Journey</b>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • <b>📂 Phase-xx-Name</b> : ( e.g., Phase-00-IT-Fundamentals )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Course-Name</b> : ( e.g., CompTIA-Network+ )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Summaries</b> : ( Organized by Domains & Chapters )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Practical-Labs</b> : ( Mapped directly to chapters with screenshots )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📂 Cheatsheets</b> : ( Compiled commands, acronyms, and syntax shortcuts )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; • <b>📜 Exam-Preparation.md</b> : ( Practice exam scores, analysis, and weak points )
+</div>
+<br><hr><br>
 </details>
