@@ -1,23 +1,35 @@
 <div align="center">
+
+# 🌐 InfoSec Journey
   
-  # 🌐 InfoSec Journey
-  `Mastering the Art of Exploitation from Scratch`
+<!-- Glassmorphism Style Header Card -->
+<img src="https://capsule-render.vercel.app/api?type=glass&color=auto&height=200&section=header&text=Offensive%20Security%20Roadmap&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-  <br />
+<br />
 
-  | **Operational Status** | **Current Objective** | **Methodology** |
-  | :---: | :---: | :---: |
-  | <img src="https://img.shields.io/badge/-In%20Progress-4493f8?style=for-the-badge&logo=gitbook&logoColor=white" /> | <img src="https://img.shields.io/badge/-Phase%200%20Fundamentals-f0883e?style=for-the-badge&logo=target&logoColor=white" /> | <img src="https://img.shields.io/badge/-Write%20%26%20Document-28a745?style=for-the-badge" /> |
+### 💠 Current Status Dashboard
+| Phase | Focus Area | Progress |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Phase-00-blue?style=flat-square&logo=target" /> | **IT Fundamentals** | ![Progress](https://geps.dev/progress/35?dangerColor=8ecae6&warningColor=219ebc&successColor=023047) |
 
-  <br />
+<br />
 
-  ---
-  
-  ### 📊 Learning Progress (Phase 0)
-  **Networking Basics**
-  ![Progress](https://geps.dev/progress/35?dangerColor=ff4b1f&warningColor=f9d423&successColor=28a745)
-  *Focusing on OSI Model & TCP/IP*
-  
+<!-- Modern Glassy Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 </div>
 
 ---
+
+### 📂 The Master Blueprint (Structured for Perfection)
+
+> [!IMPORTANT]
+> This repository follows a strict documentation standard. Every lab is a step closer to the 100% mastery of Offensive Security.
+
+```text
+📦 infosec-journey
+ ┣ 📂 Phase-00-IT-Fundamentals
+ ┃ ┣ 📂 Networking
+ ┃ ┃ ┣ 📂 01-Summaries
+ ┃ ┃ ┣ 📂 02-Practical-Labs
+ ┃ ┃ ┗ 📂 03-Cheatsheets
