@@ -15,10 +15,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">📑 Table of Contents ( Quick Access )</h3>
-<div align="left">
+<pre align="left">
     • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a>
     |    • 📂 <a href="#">CompTIA IT Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )
     |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )
+</pre>
+
+<pre align="left">    • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a></pre>
+<pre align="left">    |    • 📂 <a href="#">CompTIA IT Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</pre>
+<pre align="left">    |    • 📂 <a href="#">CompTIA A+ ( 1101, 1102 )</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</pre>
 
 <details>
   <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary><br>
