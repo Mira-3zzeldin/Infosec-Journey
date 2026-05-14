@@ -28,6 +28,7 @@
 
 ---
 
+<div>
 <details>
 <summary><h3>📑 Table of Contents ( Quick Access )</h3></summary>
 <div align="left">
@@ -109,6 +110,7 @@
   </tr>
 </table>
 </details>
+</div>
 
 ---
 
