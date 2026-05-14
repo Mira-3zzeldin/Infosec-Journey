@@ -25,15 +25,16 @@
 <details open>
 <summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I follow a strict hierarchical structure to ensure that every piece of information is easily retrievable.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I follow a strict hierarchical structure to ensure that every piece of information is easily retrievable.
+<details>
+<summary>🗂️ <b>Repository Architecture</b> (The Blueprint)</summary>
 
-<h4 align="left">📂 infosec-journey</h4>
-<div align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 <strong>Phase-xx-Name</strong> : ( e.g., Phase-00-IT-Fundamentals ) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 <strong>Course-Name</strong> : ( e.g., CompTIA-Network+ ) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 <strong>01-Summaries</strong> : ( Organized by Domains & Chapters ) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 <strong>02-Practical-Labs</strong> : ( Mapped directly to chapters with screenshots ) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 <strong>03-Cheatsheets</strong> : ( Compiled commands, acronyms, and syntax shortcuts ) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📜 <strong>Exam-Preparation.md</strong> : ( Practice exam scores, analysis, and weak points ) <br>
-</div>
+<br>
+📂 infosec-journey
+└── 📂 Phase-xx-Name (e.g., Phase-00-IT-Fundamentals)
+    └── 📂 Course-Name (e.g., CompTIA-Network+)
+        ├── 📂 01-Summaries (Organized by Domains & Chapters)
+        ├── 📂 02-Practical-Labs (Mapped directly to chapters with screenshots)
+        ├── 📂 03-Cheatsheets (Compiled commands, acronyms, and syntax shortcuts)
+        └── 📜 Exam-Preparation.md (Practice exam scores, analysis, and weak points)
 </details>
