@@ -22,11 +22,12 @@
 <summary><b>📑 Table of Contents ( Quick Access )</b></summary>
 </details>
 
-<details open>
-<summary><b>🗂️ Repository Architecture ( The Blueprint )</b></summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I follow a strict hierarchical structure to ensure that every piece of information is easily retrievable.
+
+<details>
+<summary>🗂️ <b>Repository Architecture</b> (The Blueprint)</summary>
 
 <br>
+
 ```text
 📂 infosec-journey
 └── 📂 Phase-xx-Name (e.g., Phase-00-IT-Fundamentals)
@@ -35,4 +36,5 @@
         ├── 📂 02-Practical-Labs (Mapped directly to chapters with screenshots)
         ├── 📂 03-Cheatsheets (Compiled commands, acronyms, and syntax shortcuts)
         └── 📜 Exam-Preparation.md (Practice exam scores, analysis, and weak points)
+
 </details>
