@@ -14,8 +14,22 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h3 align="left">🏛️ Repository Architecture</h3>
+<div>
+&nbsp; &nbsp; &nbsp; &nbsp; To ensure maximum organization, this repository follows a strict, highly-structured blueprint where each course <br>
+&nbsp; &nbsp; &nbsp; &nbsp; is partitioned into four strategic layers :<br><br>
+  <ul>
+    <li>&nbsp; &nbsp; <b>01-Summaries :</b> Theoretical breakdowns of core concepts and exam domains.</li>
+    <li>&nbsp; &nbsp; <b>02-Practical-Labs :</b> Hands-on documentation with step-by-step screenshots and results.</li>
+    <li>&nbsp; &nbsp; <b>03-Cheatsheets :</b> Quick-access technical references for commands, syntax, and shortcuts.</li>
+    <li>&nbsp; &nbsp; <b>Exam-Preparation.md :</b> A dedicated tracker for progress analytics and exam readiness.</li>
+  </ul>
+</div>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <details>
-<summary><h3 align="left">📑 Table of Contents ( Quick Access )</h3></summary>
+<summary><b>📑 Table of Contents ( Quick Access )</b></summary
 <div align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
@@ -30,20 +44,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">macOS-Terminal-and-Shell</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br><br>
 </div>
 </details>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3 align="left">🏛️ Repository Architecture</h3>
-<div>
-&nbsp; &nbsp; &nbsp; &nbsp; To ensure maximum organization, this repository follows a strict, highly-structured blueprint where each course <br>
-&nbsp; &nbsp; &nbsp; &nbsp; is partitioned into four strategic layers :<br><br>
-  <ul>
-    <li>&nbsp; &nbsp; <b>01-Summaries :</b> Theoretical breakdowns of core concepts and exam domains.</li>
-    <li>&nbsp; &nbsp; <b>02-Practical-Labs :</b> Hands-on documentation with step-by-step screenshots and results.</li>
-    <li>&nbsp; &nbsp; <b>03-Cheatsheets :</b> Quick-access technical references for commands, syntax, and shortcuts.</li>
-    <li>&nbsp; &nbsp; <b>Exam-Preparation.md :</b> A dedicated tracker for progress analytics and exam readiness.</li>
-  </ul>
-</div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
