@@ -190,18 +190,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp; use of these techniques against systems without prior consent is strictly illegal.
 </div>
 
-<!-- Professional Footer -->
-<br />
-<div align="center">
-  <hr style="border: 1px solid #30363d;">
-  <p>
-    <b>"Deep-Diving into the core, one bit at a time."</b> 🛡️
-  </p>
-  <p>
-    Built with 🧠 and ☕ by <b>Mira Ezz-Eldin</b> <br />
-    <small>© 2026 | Offensive Security Learning Journey</small>
-  </p>
-  <p>
-    <a href="#-table-of-contents--quick-access-">Back to Top ⬆️</a>
-  </p>
+---
+
+<br><div align="center">
+<b>"In the world of bits and bytes, depth is the only true defense."</b> 🛡️<br>
+Built with 🧠 and ☕ by <b>Mira-3zzeldin</b><br>
+<small>© 2026 | Offensive Security Learning Journey</small><br>
+<small><a href="#-table-of-contents--quick-access-">Return to Root ↗️</a></small>
 </div>
