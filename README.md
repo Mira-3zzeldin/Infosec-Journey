@@ -31,6 +31,23 @@
 <details>
 <summary><b>📑 Table of Contents ( Quick Access )</b></summary><br>
 <div align="left">
+  <ul>
+    <li>&nbsp; &nbsp; 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a></li>
+    <ul>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+    </ul>
+    <li>&nbsp; &nbsp; 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a></li>
+    <ul>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+      <li>&nbsp; &nbsp; 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )</li>
+    </ul>
+  </ul>
+  
 &nbsp; &nbsp; &nbsp; &nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
 &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-A+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
