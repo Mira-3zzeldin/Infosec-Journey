@@ -46,3 +46,62 @@
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<details>
+<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
+<br><br>
+<!-- Phase 0 -->
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
+  <tr>
+    <td><b>Certifications</b></td>
+    <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
+  </tr>
+  <tr>
+    <td><b>Practical Labs</b></td>
+    <td>TestOut Labs, Wireshark, Cisco Packet Tracer</td>
+  </tr>
+  <tr>
+    <td><b>Theoretical Foundations</b></td>
+    <td>Operating System Concepts ( by Silberschatz ), Popular Suites ( Office, Google Suite )</td>
+  </tr>
+</table>
+<br><hr><br>
+
+<!-- Phase 1 -->
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
+  <tr>
+    <td><b>🐧 Linux</b></td>
+    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, VMware : Ubuntu</td>
+  </tr>
+  <tr>
+    <td><b>🪟 Windows</b></td>
+    <td>MTA 98-349 ( Windows OS Fundamentals ), MD-100 ( Windows Client ), Microsoft Learn Labs, VMware</td>
+  </tr>
+  <tr>
+    <td><b>🍏 macOS</b></td>
+    <td>macOS Terminal & Shell ( Kirk McElhearn ), Apple Official Guide</td>
+  </tr>
+</table>
+<br><hr><br>
+
+<!-- Phase 2 -->
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
+  <tr>
+    <td><b>📡 Cisco</b></td>
+    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
+  </tr>
+  <tr>
+    <td><b>🧪 Analysis</b></td>
+    <td>WCNA ( by Laura Chappell ), Wireshark, VMware, malware-traffic-analysis, cyberdefenders, TryHackMe</td>
+  </tr>
+  <tr>
+    <td><b>🔥 Firewall</b></td>
+    <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange, TryHackMe | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
+  </tr>
+</table>
+<br><hr><br>
+</details>
