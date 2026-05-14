@@ -179,8 +179,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; feedback from the community. 🛡️<br><br>
 
 &nbsp; &nbsp; &nbsp; &nbsp; 🌐 <b>Find me on :</b> <a href="Link">LinkedIn</a> | <a href="Link">Technical Blog</a> | <a href="Link">Discord</a> | <a href="Link">Twitter</a> | <a href="Link">Gmail</a><br>
-&nbsp; &nbsp; &nbsp; &nbsp; 📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>.<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
+&nbsp; &nbsp; &nbsp; &nbsp; 📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>. Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
 </div>
 
 ---
@@ -189,4 +188,20 @@
 <div>
 &nbsp; &nbsp; &nbsp; &nbsp; This repository is created for educational purposes only. I am committed to <b>Ethical Hacking</b>. Any unauthorized <br>
 &nbsp; &nbsp; &nbsp; &nbsp; use of these techniques against systems without prior consent is strictly illegal.
+</div>
+
+<!-- Professional Footer -->
+<br />
+<div align="center">
+  <hr style="border: 1px solid #30363d;">
+  <p>
+    <b>"Deep-Diving into the core, one bit at a time."</b> 🛡️
+  </p>
+  <p>
+    Built with 🧠 and ☕ by <b>Mira Ezz-Eldin</b> <br />
+    <small>© 2026 | Offensive Security Learning Journey</small>
+  </p>
+  <p>
+    <a href="#-table-of-contents--quick-access-">Back to Top ⬆️</a>
+  </p>
 </div>
