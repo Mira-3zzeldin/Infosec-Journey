@@ -54,8 +54,6 @@
 </ul>
 </details>
 
----
-
 <details>
 <summary><h3>🚀 My Technical Roadmap & Learning Path</h3></summary><br>
 <!-- Phase 0 -->
@@ -117,12 +115,12 @@
 <h3 align="left">🧪 Learning Strategy & Methodology</h3>
 <div>
 &nbsp; &nbsp; &nbsp; &nbsp; <b>To master the shadows, one must first understand the light 🌓</b> ... My approach to <b>Offensive Security</b> is rooted<br>
-&nbsp; &nbsp; &nbsp; &nbsp; in the <b>"Core-First" 🏗️</b> principle: mastering system architecture and protocols before exploitation. I believe <br>
-&nbsp; &nbsp; &nbsp; &nbsp; that a tool is only as effective as the operator's grasp of the underlying technology.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; in the "Core-First" principle: mastering system architecture and protocols before exploitation. I believe <br>
+&nbsp; &nbsp; &nbsp; &nbsp; that a tool is only as effective as the operator's grasp of the underlying technology.<br><br>
   <ul>
-    <li>&nbsp; &nbsp; <b>Deep-Dive Synthesis :</b> Transitioning from physical neural mapping (pen & paper) to structured digital documentation.</li>
-    <li>&nbsp; &nbsp; <b>Standardized Documentation :</b> Every lab follows a strict <i>Objective → Methodology → Evidence → Conclusion</i> pipeline.</li>
-    <li>&nbsp; &nbsp; <b>Operational Validation :</b> Proving theories through hands-on labs and continuous refinement of technical notes.</li>
+    <li>&nbsp; &nbsp; <b>Deep-Dive Synthesis :</b> Transitioning from neural mapping ( pen & paper ) to digital documentation.</li>
+    <li>&nbsp; &nbsp; <b>Standardized Documentation :</b> Labs follow a strict Objective → Methodology → Evidence pipeline.</li>
+    <li>&nbsp; &nbsp; <b>Operational Validation :</b> Proving theories through hands-on labs and continuous refinement.</li>
   </ul>
 </div>
 
