@@ -1,35 +1,19 @@
+<h1 align="center">🌐 InfoSec Journey: The Path to Offensive Security</h1>
 <div align="center">
 
-# 🌐 InfoSec Journey
-  
-<!-- Glassmorphism Style Header Card -->
-<img src="https://capsule-render.vercel.app/api?type=glass&color=auto&height=200&section=header&text=Offensive%20Security%20Roadmap&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
+<!-- Glassmorphism Header -->
+<img src="https://capsule-render.vercel.app/api?type=glass&color=7000ff&height=200&section=header&text=🌐%20InfoSec%20Journey&fontSize=45&animation=fadeIn&fontAlignY=35&desc=The%20Path%20to%20Offensive%20Security&descSize=20&descAlignY=55" alt="Header" />
 
 <br />
 
-### 💠 Current Status Dashboard
-| Phase | Focus Area | Progress |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Phase-00-blue?style=flat-square&logo=target" /> | **IT Fundamentals** | ![Progress](https://geps.dev/progress/35?dangerColor=8ecae6&warningColor=219ebc&successColor=023047) |
+<!-- Modern Glassy Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Status&message=Phase-00-IT-Fundamentals&color=7000ff&style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=Focus&message=Pentesting-Foundations&color=00d4ff&style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=Methodology&message=Learn-Practice-Document&color=28a745&style=flat-square" />
+</p>
 
-<br />
-
-<!-- Modern Glassy Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 
 </div>
-
----
-
-### 📂 The Master Blueprint (Structured for Perfection)
-
-> [!IMPORTANT]
-> This repository follows a strict documentation standard. Every lab is a step closer to the 100% mastery of Offensive Security.
-
-```text
-📦 infosec-journey
- ┣ 📂 Phase-00-IT-Fundamentals
- ┃ ┣ 📂 Networking
- ┃ ┃ ┣ 📂 01-Summaries
- ┃ ┃ ┣ 📂 02-Practical-Labs
- ┃ ┃ ┗ 📂 03-Cheatsheets
