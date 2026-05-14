@@ -17,7 +17,7 @@
 <details>
 <summary><h3 align="left">📑 Table of Contents ( Quick Access )</h3></summary>
 <div align="left">
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 📂 <a href="#">Phase-00-IT-and-Networking-Fundamentals</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-IT-Fundamentals+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; • 📂 <a href="#">CompTIA-A+</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; • 📂 <a href="#">OS-Concepts-by-Silberschatz</a> ( <a href="#">Summaries</a>, <a href="#">Practical-Labs</a>, <a href="#">Cheatsheets</a>, <a href="#">Exam-Preparation.md</a> )<br>
