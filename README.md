@@ -116,7 +116,9 @@
 
 <h3 align="left">🧪 Learning Strategy & Methodology</h3>
 <div>
-&nbsp; &nbsp; &nbsp; &nbsp; <b>To master the shadows, one must first understand the light 🌓</b> ... My approach to <b>Offensive Security</b> is rooted in the <b>"Core-First" 🏗️</b> principle: mastering system architecture and protocols before exploitation. I believe that a tool is only as effective as the operator's grasp of the underlying technology.
+&nbsp; &nbsp; &nbsp; &nbsp; <b>To master the shadows, one must first understand the light 🌓</b> ... My approach to <b>Offensive Security</b> is rooted in
+&nbsp; &nbsp; &nbsp; &nbsp; the <b>"Core-First" 🏗️</b> principle: mastering system architecture and protocols before exploitation. I believe that a
+&nbsp; &nbsp; &nbsp; &nbsp; tool is only as effective as the operator's grasp of the underlying technology.
   <ul>
     <li>&nbsp; &nbsp; <b>Deep-Dive Synthesis :</b> Transitioning from physical neural mapping (pen & paper) to structured digital documentation.</li>
     <li>&nbsp; &nbsp; <b>Standardized Documentation :</b> Every lab follows a strict <i>Objective → Methodology → Evidence → Conclusion</i> pipeline.</li>
