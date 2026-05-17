@@ -53,6 +53,7 @@
   </li>
 <br>
 </ul>
+</div>
 </details>
 
 <details>
@@ -154,6 +155,7 @@
   <li>📂 <a href="#">Phase-01-Operating-Systems</a>
 </ul>
 <br>
+</div>
 </details>
 
 <hr>
