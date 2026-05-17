@@ -57,10 +57,10 @@
 </details>
 
 <details>
-<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
+<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br><br>
 <!-- Phase 0 -->
 <table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
+  <tr><th colspan="2">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
   <tr>
     <td><b>Certifications</b></td>
     <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
@@ -78,7 +78,7 @@
 
 <!-- Phase 1 -->
 <table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
+  <tr><th colspan="2">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
   <tr>
     <td><b>🐧 Linux</b></td>
     <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, VMware : Ubuntu</td>
@@ -96,7 +96,7 @@
 
 <!-- Phase 2 -->
 <table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
+  <tr><th colspan="2">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
   <tr>
     <td><b>📡 Cisco</b></td>
     <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
@@ -132,13 +132,14 @@
 <hr>
 
 <details>
-  <summary><b>🏅 Certifications & Badges</b></summary><br>
+  <summary><b>🏅 Certifications & Badges</b></summary><br><br>
   <table width="100%">
     <tr>
-      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" title="Python"></td>
-      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40" title="Bash"></td>
-      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="40" title="GO"></td>
-      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" title="JavaScript"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="200" title="Python"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="200" title="Bash"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="200" title="GO"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="200" title="JavaScript"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="200" title="JavaScript"></td>
     </tr>
   </table>
 <br>
@@ -180,8 +181,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp; a technical deep-dive, suggest a better exploit path, or report an inaccuracy - I value every piece of <br>
 &nbsp; &nbsp; &nbsp; &nbsp; feedback from the community. 🛡️<br><br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; 🌐 <b>Find me on :</b> <a href="Link">LinkedIn</a> | <a href="Link">Technical Blog</a> | <a href="Link">Discord</a> | <a href="Link">Twitter</a> | <a href="Link">Gmail</a><br>
-&nbsp; &nbsp; &nbsp; &nbsp; 📢 <b>Feedback :</b> Found a mistake ? Open an <a href="YOUR_ISSUES_LINK">Issue</a>. Have a suggestion ? Let's talk in <a href="YOUR_DISCUSSIONS_LINK">Discussions</a>.
+&nbsp; &nbsp; &nbsp; &nbsp; 🌐 <b>Find me on :</b> <a href="https://www.linkedin.com/in/mira3zzeldin/">LinkedIn</a> | <a href="https://hashnode.com/@mira3zzeldin">Technical Blog</a> | <a href="Link">Discord</a> | <a href="https://x.com/Mira3zzeldin">Twitter</a> | <a href="mailto:mira3zzeldin@gmail.com">Gmail</a><br>
+&nbsp; &nbsp; &nbsp; &nbsp; 📢 <b>Feedback :</b> Found a mistake ? Open an <a href="https://github.com/Mira-3zzeldin/Infosec-Journey/issues/new?template=content-feedback.md">Issue</a>. Have a suggestion ? Let's talk in <a href="https://github.com/Mira-3zzeldin/Infosec-Journey/discussions">Discussions</a>.
 </div>
 
 <hr>
