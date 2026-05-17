@@ -1,10 +1,11 @@
 
 ## 📋 Content Reference
 
-**Phase / Section:**
+**Phase / Section :**
 > e.g. Phase-01 / CompTIA-Linux+ / 01-Summaries
 
-**File / Topic:**
+
+**File / Topic :**
 > e.g. File-03-Process-Management.md / Topic: Scheduling Algorithms
 
 ---
