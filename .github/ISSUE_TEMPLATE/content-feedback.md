@@ -1,10 +1,8 @@
 
-## 📋 Content Reference<br><br>
+## 📋 Content Reference
 
 **Phase / Section :**
 > e.g. Phase-01 / CompTIA-Linux+ / 01-Summaries
-
-<br>
 
 **File / Topic :**
 > e.g. File-03-Process-Management.md / Topic: Scheduling Algorithms
@@ -36,6 +34,7 @@
 ## 📎 References ( Optional )
 
 > Add any sources, documentation links, or evidence supporting your feedback.
+
 
 ---
 name: Content Feedback
