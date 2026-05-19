@@ -187,7 +187,7 @@
 
 <hr>
 
-<h3 align="left">⚠️ Disclaimer</h3>
+<h3 align="left">⚠️ Repository Disclaimer</h3>
 <div>
 &nbsp; &nbsp; &nbsp; &nbsp; This repository is created for educational purposes only. I am committed to <b>Ethical Hacking</b>. Any unauthorized <br>
 &nbsp; &nbsp; &nbsp; &nbsp; use of these techniques against systems without prior consent is strictly illegal.
