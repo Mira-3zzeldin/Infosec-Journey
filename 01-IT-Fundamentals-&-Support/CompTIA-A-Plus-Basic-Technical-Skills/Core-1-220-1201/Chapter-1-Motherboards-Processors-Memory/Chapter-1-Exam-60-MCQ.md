@@ -548,6 +548,7 @@ B. microATX, because it fits in ATX cases and offers more slots than Mini-ITX wh
 C. Full ATX, because it has the most expansion options  
 D. Mobile-ITX, because it is low-power and supports ATX cases  
 
+
 ---
 ---
 
