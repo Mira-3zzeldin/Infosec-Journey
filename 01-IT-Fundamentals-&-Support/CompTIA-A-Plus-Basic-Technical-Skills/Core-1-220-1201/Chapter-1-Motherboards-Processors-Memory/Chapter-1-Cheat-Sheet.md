@@ -9,6 +9,8 @@
 |Pico-ITX|3.9" × 2.8" (100mm × 72mm)|VIA Technologies|Embedded use|
 |Mobile-ITX|2.4" × 2.4" (60mm × 60mm)|VIA Technologies|Embedded use|
 
+---
+
 ## Expansion Slots / Buses
 
 | Interface             | Width/Config | Speed / Throughput                    | Notes                            |
@@ -23,6 +25,8 @@
 | PCIe 7.0              | —            | 2× PCIe 6.0                           | Spec 2025, devices ~2027         |
 | PCIe 1.1 x16          | 16 lanes     | 4 GBps/dir, 8 GBps bidirectional      | Common gaming-era slot           |
 
+---
+
 ## Storage & I/O Connectors
 
 |Connector|Speed|Notes|
@@ -33,6 +37,8 @@
 |SATA 6 Gbps (SATA III/600)|600 MBps effective|2× SATA II|
 |eSATA|= matching SATA speed|No power delivery; losing ground to USB-C/Thunderbolt|
 |M.2|Varies (SATA/USB/PCIe)|Form factor only, NOT a bus standard|
+
+---
 
 ## CPU Sockets (Selected)
 
@@ -47,6 +53,8 @@
 |Socket FM2+|2014|PGA|906|AMD Kaveri/Godavari|
 |Socket AM1|2014|PGA|721|AMD Athlon/Sempron|
 
+---
+
 ## DDR Memory Generations
 
 | Gen  | Pins (DIMM) | Pins (SODIMM) | Max Memory                                      | Channels | Voltage | Released  |
@@ -60,6 +68,8 @@
 
 **DIMM length (all DDR generations): 5.25" (133.35mm) — SODIMM width: 2.75" (69.6mm)**
 
+---
+
 ## Cache Hierarchy (representative, 10th-gen i7 per-core)
 
 |Level|Size|Location|Speed|
@@ -69,6 +79,8 @@
 |L3|8–16 MB|On-die (shared)|Slower|
 |RAM|16–256 GB|Off-die|Slower still|
 |HDD/SSD|100s GB–TBs|Off-die|Slowest|
+
+---
 
 ## BIOS/UEFI & Security
 
@@ -84,6 +96,8 @@
 |ATX power connector|24-pin|
 |POST|Power-On Self-Test; verifies BIOS integrity, memory size, catalogs hardware|
 
+---
+
 ## Cooling
 
 |Type|Notes|
@@ -95,6 +109,8 @@
 |AIO liquid — 240mm|2 fans; for overclocked components|
 |AIO liquid — 360mm|3 fans; high-end multicore overclocking|
 |CPU fan headers|3-pin (basic) or 4-pin (adds PWM speed control)|
+
+---
 
 ## CPU Architecture Quick Reference
 
